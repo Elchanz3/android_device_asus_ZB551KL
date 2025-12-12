@@ -20,8 +20,8 @@
 # Inherit from the common Open Source product configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
-PRODUCT_NAME := cm_Z00L
-PRODUCT_DEVICE := Z00L
+PRODUCT_NAME := cm_X013D
+PRODUCT_DEVICE := X013D
 PRODUCT_BRAND := Asus
 PRODUCT_MANUFACTURER := Asus
-PRODUCT_MODEL := Zenfone 2 Laser
+PRODUCT_MODEL := Zenfone Go
